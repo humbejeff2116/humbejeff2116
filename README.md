@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Humbe Jeffrey
 - 👀 I’m interested in web and mobile technologies
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently working with React.js and Node.js
 - 💞️ I’m looking to collaborate on any positive JavaScript projects
 - 📫 wanna reach me ? Send me a mail: humbejeff2116@gmail.com
 
